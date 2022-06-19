@@ -4,7 +4,9 @@
 2. 깃 클론
   git clone https://github.com/sryoo1118/triple.git
 
-4. npm 설치
+3. vscode를 열어 해당 폴더 열기
+
+4. vscode 터미널로 npm 설치
   npm install
   
 5. npm 실행하여 확인
